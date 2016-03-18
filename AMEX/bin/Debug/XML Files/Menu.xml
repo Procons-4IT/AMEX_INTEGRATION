@@ -1,0 +1,16 @@
+<Application>
+  <Menus>
+    <action type="add">
+
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Image="" Position="14" String="Amex Add On"
+				Type="2" UniqueID="mnu_S301"></Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="mnu_S301" Image="" Position="0" String="Settings"
+      Type="2" UniqueID="mnu_S302"></Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="mnu_S302" Image="" Position="0" String="JE - Setting"
+      Type="1" UniqueID="mnu_S304"></Menu>    
+
+    </action>
+  </Menus>
+</Application>
